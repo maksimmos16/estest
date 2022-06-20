@@ -1,0 +1,7 @@
+.auth-page-content{position:relative;width:90%;max-width:448px;padding:44px 44px 32px;background-color:var(--be-background);box-shadow:0 7px 14px 0 #3c42571f,0 3px 6px 0 #0000001f;border-radius:4px;margin:0 auto}
+
+auth-page .auth-panel{width:auto !important;box-shadow:none !important; text-align:center;}
+
+.bottom-cta{background-repeat-x: repeat !important; background-attachment: inherit !important;}
+
+.inline-feature .image{width: auto !important; height: auto !important; }
